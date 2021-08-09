@@ -1,7 +1,7 @@
 ### Olá
 
 Me chamo Guilherme, tenho 19 anos.
-Sou um estudante do tercceiro ano do curso de  Sistemas de Informação na Universidade Santa Cecília
+Sou um estudante do terceiro ano do curso de  Sistemas de Informação na Universidade Santa Cecília
 
 ##
 
