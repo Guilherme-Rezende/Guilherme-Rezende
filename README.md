@@ -19,6 +19,6 @@ Sou um estudante do terceiro ano do curso de  Sistemas de Informação na Univer
 ### --> Informações sobre meu GitHub
 <div>
   <a href="https://github.com/Guilherme-Rezende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Rezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rezende&layout=compact=true&langs_count=7&theme=dark"/>
+  <img width="100em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Rezende&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Rezende&layout=compact=true&langs_count=7&theme=dark"/>
 </div>
